@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "src" : "./image-waffle-desktop.jpg",
+        "name": "Waffle",
+        "details": "Waffle with Berries",
+        "price": 6.50,
+        "thumbnail": "./image-waffle-thumbnail.jpg"
+    },
+    {
+        "id" : 2,
+        "src" : "./image-creme-brulee-desktop.jpg",
+        "name": "Creme Brulee",
+        "details": "Vanilla Bean Creme Brulee",
+        "price": 7.00,
+        "thumbnail": "./image-creme-brulee-thumbnail.jpg"
+    },
+    {
+        "id" : 3,
+        "src" : "./image-macaron-desktop.jpg",
+        "name": "Macaron",
+        "details": "Macaron Mix of Five",
+        "price": 8.00,
+        "thumbnail": "./image-macaron-thumbnail.jpg"
+    },
+    {
+        "id" : 4,
+        "src" : "./image-tiramisu-desktop.jpg",
+        "name": "Tiramisu",
+        "details": "Classsic Tiramisu",
+        "price": 5.50,
+        "thumbnail": "./image-tiramisu-thumbnail.jpg"
+    },
+    {
+        "id" : 5,
+        "src" : "./image-baklava-desktop.jpg",
+        "name": "Baklava",
+        "details": "Pistachio Baklava",
+        "price": 4.00,
+        "thumbnail": "./image-baklava-thumbnail.jpg"
+    },
+    {
+        "id" : 6,
+        "src" : "./image-meringue-desktop.jpg",
+        "name": "Pie",
+        "details": "Lemon Meringue Pie",
+        "price": 5.00,
+        "thumbnail": "./image-meringue-thumbnail.jpg"
+    },
+    {
+        "id" : 7,
+        "src" : "./image-cake-desktop.jpg",
+        "name": "Cake",
+        "details": "Red Velvet Cake",
+        "price": 4.50,
+        "thumbnail": "./image-cake-thumbnail.jpg"
+    },
+    {
+        "id" : 8,
+        "src" : "./image-brownie-desktop.jpg",
+        "name": "Brownie",
+        "details": "Salted Caramel Brownie",
+        "price": 5.50,
+        "thumbnail": "./image-brownie-thumbnail.jpg"
+    },
+    {
+        "id" : 9,
+        "src" : "./image-panna-cotta-desktop.jpg",
+        "name": "Panna Cotta",
+        "details": "Vanilla Panna Cotta",
+        "price": 6.50,
+        "thumbnail": "./image-panna-cotta-thumbnail.jpg"
+    }
+]
